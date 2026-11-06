@@ -1,0 +1,26 @@
+{
+  "name": "orai-szakkorok",
+  "version": "1.0.0",
+  "description": "Órai szakkörök kiiratása, kilistázása",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcell1206/orai-szakkorok.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/marcell1206/orai-szakkorok/issues"
+  },
+  "homepage": "https://github.com/marcell1206/orai-szakkorok#readme",
+  "dependencies": {
+    "dotenv": "^18.0.9",
+    "express": "^5.3.0",
+    "mysql2": "^3.24.6"
+  }
+}
