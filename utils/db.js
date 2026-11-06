@@ -9,6 +9,8 @@ const dbConfig = {
     password: process.env.DB_PASSWORD
 }
 
+
+
 const pool = mysql.createPool(dbConfig)
 
 export default pool;
